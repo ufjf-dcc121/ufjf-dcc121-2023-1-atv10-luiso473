@@ -6,7 +6,7 @@ main{
     display: flex;
 }
 header{
-    background-color: aliceblue;
+    background-color: black;
     color: white;
 }
 header h1 {
